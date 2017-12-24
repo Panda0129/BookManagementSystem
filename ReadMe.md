@@ -26,6 +26,7 @@
   | password | varchar(15) | 管理员密码               |
 
   book_info表：
+  
   ![](png/book_info.png)
 
   | 字段名       |       类型       |        说明         |
